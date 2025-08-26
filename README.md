@@ -11,7 +11,10 @@
 
 **🎬 Check Out Our Presentation:** [https://youtu.be/E6VkSWyGdDM?si=oPbGZMQIzqdnAZbL](https://youtu.be/E6VkSWyGdDM?si=oPbGZMQIzqdnAZbL)
 
-**⭐ Review our Analysis/Notebook:**
+**⭐ Review our Analysis/Notebook:** <br/><br/>
+<a target="_blank" href="https://colab.research.google.com/github/lester-liam/csci218-diabetes-risk-prediction/blob/main/csci218_grp32.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 
