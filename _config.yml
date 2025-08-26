@@ -1,0 +1,5 @@
+title: CSCI218 - Diabetes Risk Predictions
+description: This project is part of our group project for CSCI218 - Foundations of AI. The project focuses on applying artificial intelligence, specifically machine learning, to predict whether a person is at risk of diabetes based on the CDC BRFSS 2014 Dataset.
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
